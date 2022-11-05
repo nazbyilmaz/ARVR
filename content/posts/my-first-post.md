@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2022-11-05T20:54:36+01:00
-draft: true
+draft: false
 ---
 
 Hello Dear Subscriber,
