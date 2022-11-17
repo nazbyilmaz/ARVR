@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nazbyilmaz.github.io/ARVR/posts/my-first-post/</loc>
+    <loc>https://nazbyilmaz.github.io/ARVR/portfolio/my-first-post/</loc>
     <lastmod>2022-11-05T20:54:36+01:00</lastmod>
   </url><url>
     <loc>https://nazbyilmaz.github.io/ARVR/</loc>
     <lastmod>2022-11-05T20:54:36+01:00</lastmod>
   </url><url>
-    <loc>https://nazbyilmaz.github.io/ARVR/posts/</loc>
+    <loc>https://nazbyilmaz.github.io/ARVR/portfolio/</loc>
     <lastmod>2022-11-05T20:54:36+01:00</lastmod>
   </url><url>
-    <loc>https://nazbyilmaz.github.io/ARVR/posts/my-other-post/</loc>
+    <loc>https://nazbyilmaz.github.io/ARVR/portfolio/my-other-post/</loc>
     <lastmod>2022-10-05T20:54:36+01:00</lastmod>
+  </url><url>
+    <loc>https://nazbyilmaz.github.io/ARVR/about/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://nazbyilmaz.github.io/ARVR/categories/</loc>
   </url><url>
