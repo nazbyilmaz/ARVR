@@ -12,7 +12,7 @@ canonifyURLs = true
   description = "Describe your website"
   copyright = "&copy;2022"
   sidebarAbout = [
-    "Hi! I'm Naz. I created this blog for AR/VR Interaction Course - WiSe2022"
+    "Hi! I'm Naz. I've created this blog for Interaction in Virtual and Augmented Reality Course, WiSe2022@TU Darmstadt."
 
   ]
   # Contact page
