@@ -49,9 +49,7 @@ canonifyURLs = true
   url = "about/"
 
   [params.social]
-
-  email         = "email@example.com"
-  linkedin      = "full profile url in linkedin"
-  github        = "full profile url in github"
+  linkedin      = "https://linkedin.com/in/naz-yilmaz-870907185"
+  github        = "https://github.com/nazbyilmaz"
 
   
